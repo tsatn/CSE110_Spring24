@@ -13,13 +13,13 @@ I'm a programmer who is passionate about open-source projects and web developmen
 
 ### Projects
 
-1. [Supervised Machine Learning Project](https://example.com) - A brief description of the project.
-2. [Data Science Research Project](https://drive.google.com/file/d/1Zw-pNmCZJzKK4eoqQD8Uy3n40sGu0slP/view?usp=drive_link) - Another brief description.
+1. [_Supervised Machine Learning Project_](https://example.com) - A brief description of the project.
+2. [_Data Science Research Project_](https://drive.google.com/file/d/1Zw-pNmCZJzKK4eoqQD8Uy3n40sGu0slP/view?usp=drive_link) - Another brief description.
 
 ### Contact
 
-- GitHub: [my GitHub](https://github.com/tsatn/CSE110_Spring24)
-- LinkedIn: [my LinkedIn](https://www.linkedin.com/in/teresa-tian/)
+- GitHub: [_my GitHub_](https://github.com/tsatn/CSE110_Spring24)
+- LinkedIn: [_my LinkedIn_](https://www.linkedin.com/in/teresa-tian/)
 
 > I learned how to write this **Markdown file** here: [Markdown formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
