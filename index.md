@@ -24,7 +24,7 @@ I'm a programmer who is passionate about open-source projects and web developmen
 > I learned how to write this **Markdown file** here: [Markdown formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Pictures
-[lrelative link: link to my picture](meee.png)
+[relative link: link to my picture](meee.png)
 
 - [x] its the same picturee :P
 - [x] its the same picturee :P
