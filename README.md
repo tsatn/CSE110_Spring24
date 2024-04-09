@@ -1,3 +1,3 @@
 # CSE110_Spring24
-Teresa Tian's User Page
-favorite programming language: Java
+CSE 110 Lab 
+link to published site: https://github.com/tsatn/CSE110_Spring24
